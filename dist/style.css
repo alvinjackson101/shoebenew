@@ -805,16 +805,6 @@ header {
   }
 }
 
-.service-section5 {
-  background-image: url("/images/smyle-pattern.png");
-  background-size: cover;
-  background-size: 80%;
-  background-position: 50%;
-  background-repeat: no-repeat;
-  width: 100%;
-  background-attachment: fixed;
-}
-
 .process-section-bg {
   background-image: url("/images/process-bg.png");
   background-size: cover;
@@ -825,15 +815,6 @@ header {
   background-attachment: fixed;
 }
 
-.livestockloader-bg {
-  background-image: url("/images/livestock101-bg.png");
-  background-size: cover;
-  background-size: 80%;
-  background-position: 50%;
-  background-repeat: no-repeat;
-  width: 100%;
-  background-attachment: fixed;
-}
 
 .service-section4 {
   background-size: cover;
@@ -844,9 +825,6 @@ header {
   background-attachment: fixed;
 }
 
-.service-section4 {
-  background-image: url("/images/cesor.png");
-}
 
 .branding-sec-left {
   padding: 0 100px;
