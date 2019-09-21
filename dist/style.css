@@ -111,19 +111,6 @@ ul {
   list-style: none;
 }
 
-blockquote,
-q {
-  quotes: none;
-}
-
-blockquote:after,
-blockquote:before,
-q:after,
-q:before {
-  content: "";
-  content: none;
-}
-
 html {
   box-sizing: border-box;
   height: 100%;
@@ -244,7 +231,7 @@ h3 {
 }
 
 .mx-width-900 {
-  max-width: 900px !important;
+  max-width: 1000px !important;
 }
 
 .mx-width-600 {
@@ -333,12 +320,12 @@ h3 {
   position: relative; */
 }
 
-/*.bg-livestockloader{
-  background-image: url("/images/livestock-bg.png");
+.section-bg{
+  background-image: url("imgs/Screen Shot 2019-09-21 at 4.07.58 AM.png");
   background-repeat: no-repeat;
   width: 100%;
   background-position: 75% 25%;
-}*/
+}
 
 .bg-blue {
   background: #1873e8;
@@ -602,8 +589,14 @@ header {
   font-weight: 300;
 }
 
+.h-pickup{
+  margin-top: 42px;
+  font-weight: 300;
+  color:#fff !important;
+}
+
 .section .sec-spacing {
-  padding: 50% 0 25%;
+  padding: 30% 0 25%;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
